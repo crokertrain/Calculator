@@ -8,3 +8,4 @@
 #----------------------------------------------------------------------------#
 Copy the files into the httpd docs folder.
 
+Include CGI files.
